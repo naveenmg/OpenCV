@@ -1,2 +1,2 @@
 # OpenCV
-Basic applications of OpenCV 
+Simple motion detection using OpenCV 
